@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Bananagrams</string>
+    <string name="app_name">Bananagrams Solver</string>
+    <string name="letters_box_hint">characters</string>
+    <string name="solve_button">Solve</string>
+    <string name="board_help">Game board</string>
 </resources>
